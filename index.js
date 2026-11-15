@@ -1,1 +1,1 @@
-module.exports={evalExpr:eval}
+exports.evalExpr=eval
